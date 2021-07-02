@@ -1,3 +1,4 @@
+console.log("hello")
 var formats = [`maps`, `audio`, `photos`, `manuscripts`, `newspapers`, `film-and-videos`, `notated-music`, `websites`];
 var baseUrl = `https://www.loc.gov/fo=json`;
 var searchUrl;
